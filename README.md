@@ -13,4 +13,4 @@ generating poems using python and [15,000 useful phrases](http://www.gutenberg.o
 
 
 
-made with ❤️ by isabella peralta
+made with ❤️ by <a href="https://isabellaperalta.com/">isabella peralta</a>
